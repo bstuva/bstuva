@@ -5,12 +5,12 @@
 
 ![](https://komarev.com/ghpvc/?username=bstuva&color=green&label=Visitors&style=flat-square)
 
-<h2 style="border-bottom: 1px solid #ccc; padding-bottom: 2px;">About me</h2>
+<h2 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">About me</h2>
 
 * Senior Software Engineer at Arizona State University
 * 
 
-<h2 style="border-bottom: 1px solid #ccc; padding-bottom: 2px;">Currently Learning</h2>
+<h3 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Currently Learning</h3>
 
 #### Computing Capstone I
 -----------------------------
@@ -49,6 +49,10 @@
 ---------------------------------
 - Designing and building game logic components within an existing game engine environment.
 
-<h2 style="border-bottom: 1px solid #ccc; padding-bottom: 2px;">Where to Find Me</h2>
+<h5 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Accumulated Knowlege</h5>
+
+- 
+
+<h5 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Where to Find Me</h5>
 
 * My [LinkedIn](https://www.linkedin.com/in/brayden-stuva/)

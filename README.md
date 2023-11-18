@@ -51,7 +51,7 @@
 
 <h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Completed Course and Aquired Skills</h1>
 
-- [Completed Courses](/PastCourses.md)
+- [Completed Courses](PastCourses.md)
 
 
 <h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Where to Find Me</h1>

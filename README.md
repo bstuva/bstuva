@@ -1,4 +1,4 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=bstuva)
+![](https://komarev.com/ghpvc/?username=bstuva&color=green&label=Visitors&style=flat-square)
 
 
 

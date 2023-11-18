@@ -1,5 +1,7 @@
-### Currently Learning
+![Visitor Count](https://komarev.com/ghpvc/?bstuva=yourusername&color=green)
 
+### Currently Learninng
+----------------------------------
 #### Computing Capstone I
 - Applying cumulative knowledge and skills from my college major in a comprehensive project. 
 - Working on real projects with industry or academic clients, focusing on engineering and computing aspects.

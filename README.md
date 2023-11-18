@@ -1,4 +1,4 @@
-![GIF](https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif)
+![GIF](https://media.tenor.com/yzNFALESODQAAAAd/coding-hack.gif)
 
 ![](https://komarev.com/ghpvc/?username=bstuva&color=green&label=Visitors&style=flat-square)
 

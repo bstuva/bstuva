@@ -1,4 +1,7 @@
-![GIF](https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" alt="GIF">
+</p>
+
 
 ![](https://komarev.com/ghpvc/?username=bstuva&color=green&label=Visitors&style=flat-square)
 

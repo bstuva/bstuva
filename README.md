@@ -49,9 +49,10 @@
 ---------------------------------
 - Designing and building game logic components within an existing game engine environment.
 
-<h5 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Accumulated Knowlege</h5>
+<h5 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Completed Course and Aquired Skills</h5>
 
-- 
+- [Completed Courses](/PastCourses.md)
+
 
 <h5 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Where to Find Me</h5>
 

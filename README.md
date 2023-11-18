@@ -1,10 +1,16 @@
+![GIF](https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif)
+
 ![](https://komarev.com/ghpvc/?username=bstuva&color=green&label=Visitors&style=flat-square)
 
-
+### About Me
+--------------
+* Senior Software Engineer
+* 
 
 ### Currently Learninng
 ----------------------------------
 #### Computing Capstone I
+-----------------------------
 - Applying cumulative knowledge and skills from my college major in a comprehensive project. 
 - Working on real projects with industry or academic clients, focusing on engineering and computing aspects.
 - Enhancing project management, leadership, teamwork, and communication skills.
@@ -16,6 +22,7 @@
   - Proficiency in software engineering tools and processes.
 
 #### Software Enterprise: Inception
+------------------------------------
 - Understanding and applying software requirements engineering theory and practices.
 - Utilizing modern software tools.
 - Applying concepts to software projects and constructing analysis models.
@@ -25,6 +32,7 @@
   - Computing Professionalism in software projects.
 
 #### Web-based Application Development
+
 - Threads, sockets, protocols, HTTP, Web/Mobile Software Architecture.
 - Design Patterns focusing on MVC, Single-Page Applications, Client-side apps leveraging APIs.
 - HTML5/JS/CSS stack, GraphQL, REST.
@@ -35,20 +43,9 @@
   - Trends in modern web software development organization.
 
 #### Game Programming and Design
+---------------------------------
 - Designing and building game logic components within an existing game engine environment.
 
-
-<!--
-**bstuva/bstuva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Where to Find Me
+----------------------
+* My [LinkedIn](https://www.linkedin.com/in/brayden-stuva/)

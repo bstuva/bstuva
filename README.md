@@ -1,4 +1,5 @@
-![Visitor Count](https://komarev.com/ghpvc/?bstuva=yourusername&color=green)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=bstuva.bstuva)
+
 
 ### Currently Learninng
 ----------------------------------

@@ -1,23 +1,23 @@
 # Below are the course and their aquired skills
 
-<h6 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Engineering Secure Software Systems</h6>
+<h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Engineering Secure Software Systems</h1>
 
 ### Aquired Skills
-- Understanding key concepts in security fundamentals.
-- Analyzing the completeness and correctness of security requirements for software systems.
-- Applying appropriate verification and validation techniques to software for ensuring security.
-- Constructing risk management plans for software architecture vulnerabilities.
-- Modeling underlying program construction, build, deployment, and execution to identify software vulnerabilities.
-- Understanding the importance of software security from ethical and societal impact perspectives.
-- Integrating security practices into Software Development Lifecycle (SDLC).
-- Gaining skills in threat modeling and vulnerability assessment.
-- Learning and applying penetration testing techniques.
-- Utilizing static analysis for security verification.
-- Assessing and securing software architecture and design.
-- Applying secure practices in software construction and development.
-- Evaluating the social impacts of security in software systems.
+ - Understanding key concepts in security fundamentals.
+ - Analyzing the completeness and correctness of security requirements for software systems.
+ - Applying appropriate verification and validation techniques to software for ensuring security.
+ - Constructing risk management plans for software architecture vulnerabilities.
+ - Modeling underlying program construction, build, deployment, and execution to identify software vulnerabilities.
+ - Understanding the importance of software security from ethical and societal impact perspectives.
+ - Integrating security practices into Software Development Lifecycle (SDLC).
+ - Gaining skills in threat modeling and vulnerability assessment.
+ - Learning and applying penetration testing techniques.
+ - Utilizing static analysis for security verification.
+ - Assessing and securing software architecture and design.
+ - Applying secure practices in software construction and development.
+ - Evaluating the social impacts of security in software systems.
 
-<h6 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Principles of Distributed Software Systems</h6>
+<h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Principles of Distributed Software Systems</h1>
 
 ### Aquired Skills
    - Designing and developing applications that apply concurrency, asynchronous behavior, threads, and shared data synchronization.
@@ -37,7 +37,7 @@
    - Adherence to academic integrity and ethical standards in software development and collaboration.
    - Flexibility in learning and utilizing new programming languages and development tools.
 
-<h6 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Software Enterprise I: Construction & Transition</h6>
+<h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Software Enterprise I: Construction & Transition</h1>
 
 ### Aquired Skills
 - Application of techniques for producing high-quality software code, including source code documentation and unit tests.
@@ -54,7 +54,7 @@
 - Application of metrics and measurements to evaluate software development processes and products.
 - Adherence to ethical and professional standards in software construction and transition.
 
-<h6 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Operating Systems and Networks</h6>
+<h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Operating Systems and Networks</h1>
 
 ### Aquired Skills
 - Construction of programs such as operating system modules, system utilities, and low-level applications using POSIX libraries.
@@ -69,7 +69,7 @@
 - Effective use of Slack for course communications and ensuring adherence to academic integrity in discussions.
 - Deepening understanding of advanced concepts in operating systems and networks through practical programming assignments.
 
-<h5 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Principles of Database Management</h5>
+<h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Principles of Database Management</h1>
 
 ### Aquired Skills
 - Ability to design a relational data model solution for problems of non-trivial complexity.
@@ -87,7 +87,7 @@
 - Balancing collaboration and individual responsibility in programming assignments.
 - Flexibility and adaptability to changes in course policies and requirements.
 
-<h4 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Software Design and Software Process</h4>
+<h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Software Design and Software Process</h1>
 
 ### Aquired Skills
 - Proficiency in understanding and applying software architecture principles.
@@ -107,14 +107,14 @@
 - Ability to manage time effectively and meet strict deadlines for assignments and projects.
 - Balancing collaboration in study groups with the need for individual integrity and work ethic in assignments.
 
-<h3 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Design & Analyze: Data Structures & Algorithms</h3>
+<h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Design & Analyze: Data Structures & Algorithms</h1>
 
 ### Aquired Skills
 
 -
 
-<h2 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Software Enterprise (Personal Process & Software
-Quality)</h2>
+<h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Software Enterprise (Personal Process & Software
+Quality)</h1>
 
 ## Aquired Skills
 

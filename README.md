@@ -5,12 +5,12 @@
 
 ![](https://komarev.com/ghpvc/?username=bstuva&color=green&label=Visitors&style=flat-square)
 
-<h2 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">About me</h2>
+<h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">About me</h1>
 
 * Senior Software Engineer at Arizona State University
-* 
+* My goal is to excel in software engineering, fueled by a relentless pursuit of comprehensive knowledge in every project. I thrive on understanding every facet, from technical foundations to user interactions, ensuring my contributions are not only effective but also forward-thinking. This holistic perspective is my key strength, enabling me to innovate and deliver exceptional results in all my endeavors.
 
-<h3 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Currently Learning</h3>
+<h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Currently Learning</h1>
 
 #### Computing Capstone I
 -----------------------------
@@ -49,11 +49,11 @@
 ---------------------------------
 - Designing and building game logic components within an existing game engine environment.
 
-<h5 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Completed Course and Aquired Skills</h5>
+<h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Completed Course and Aquired Skills</h1>
 
 - [Completed Courses](/PastCourses.md)
 
 
-<h5 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Where to Find Me</h5>
+<h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Where to Find Me</h1>
 
 * My [LinkedIn](https://www.linkedin.com/in/brayden-stuva/)

@@ -12,42 +12,33 @@
 
 <h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Currently Learning</h1>
 
-#### Computing Capstone I
+#### Computing Capstone II
 -----------------------------
-- Applying cumulative knowledge and skills from my college major in a comprehensive project. 
-- Working on real projects with industry or academic clients, focusing on engineering and computing aspects.
-- Enhancing project management, leadership, teamwork, and communication skills.
-- Taking leadership in developing project solutions under mentor guidance.
-- **Key Outcomes**:
-  - Ability to apply engineering design considering public health, safety, and global factors.
-  - Ethical and professional responsibility in engineering situations.
-  - Acquisition and application of new knowledge using appropriate strategies.
-  - Proficiency in software engineering tools and processes.
+- Engineering Problem Solving: Ability to identify, formulate, and solve complex engineering problems using principles of engineering, science, and mathematics.
+- Engineering Design Application: Application of engineering design to produce solutions that consider public health, safety, welfare, as well as global and societal factors.
+- Effective Communication: Ability to communicate effectively with a range of audiences.
+- Ethical and Professional Responsibility: Recognition and adherence to ethical and professional responsibilities in engineering situations, including the impact of engineering solutions in global contexts.
+- Teamwork and Leadership: Function effectively on teams, providing leadership and creating a collaborative environment to meet objectives.
+- Experimentation and Data Analysis: Develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
+- Lifelong Learning: Ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+- Software Engineering Practice: Use of techniques, skills, and modern engineering tools necessary for software engineering practice.\
+- Software Design and Construction: Apply software engineering perspectives through design, construction, requirements analysis, verification, and validation to develop solutions to modern problems.
 
-#### Software Enterprise: Inception
+#### Software Enterprise: Proj&Proc
 ------------------------------------
-- Understanding and applying software requirements engineering theory and practices.
-- Utilizing modern software tools.
-- Applying concepts to software projects and constructing analysis models.
-- **Key Competencies**:
-  - Technical Competence in Software Engineering.
-  - Effective Communication and Teamwork in SE practices.
-  - Computing Professionalism in software projects.
+- Software Program Management Best Practices: Understand and apply best practices, tools, and software for managing scope, schedule, cost, and risk.
+- Project Management Analysis Techniques: Utilize various analysis techniques for decision-making between competing opportunities and for critical path determination in project management.
+- Software Project Management Deliverables: Construct deliverables for a diverse set of project stakeholders, enhancing your ability to communicate effectively across different segments of a project..
 
-#### Web-based Application Development
+####  Mobile Systems
+---------------------------------------
+- Selection of Mobile-Device Operating Systems: Choosing the appropriate mobile-device operating systems for specific application requirements.
+- Development of Efficient Mobile Applications: Creating efficient mobile applications that meet user needs.
+- Utilization of Development Tools: Using development tools, including emulators and simulators, effectively.
+- Design of User Interfaces: Designing user interfaces that are suitable for limited display and input capabilities.
+- Creation of Synchronizing Applications: Developing applications that can synchronize and communicate across mobile and non-mobile devices.
 
-- Threads, sockets, protocols, HTTP, Web/Mobile Software Architecture.
-- Design Patterns focusing on MVC, Single-Page Applications, Client-side apps leveraging APIs.
-- HTML5/JS/CSS stack, GraphQL, REST.
-- **Key Focus Areas**:
-  - Building Production-quality Web Applications.
-  - Performance, Scalability, Security in web development.
-  - Usability and Responsive Web Design.
-  - Trends in modern web software development organization.
-
-#### Game Programming and Design
----------------------------------
-- Designing and building game logic components within an existing game engine environment.
+<h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Projects</h1>
 
 <h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Completed Course and Aquired Skills</h1>
 

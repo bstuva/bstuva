@@ -48,3 +48,7 @@
 <h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Where to Find Me</h1>
 
 * My [LinkedIn](https://www.linkedin.com/in/brayden-stuva/)
+
+<h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">My Hobbies</h1>
+
+- [Hobbies](hobbies.md)

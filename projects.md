@@ -1,14 +1,12 @@
-# Latest Project: Capstone Project
-
-## Project: SaaS Web App Design & Development for 3D Printing Businesses
+# Latest Project: SaaS Web App Design & Development for 3D Printing Businesses
 
 **Company:** Link Clicks Inc.  
 **Sponsor Name:** Adam Prentice  
 **Sponsor E-mail:** [adam@linkclicks.com](mailto:adam@linkclicks.com)  
 
-### Project Description
+## Project Description
 
-#### Overview
+### Overview
 
 We partnered with Link Clicks Inc. to design, develop, and deploy a cutting-edge Software as a Service (SaaS) platform, specifically tailored for the 3D printing industry. This platform aims to offer comprehensive services such as website hosting, inventory management, quoting, order tracking, and payment processing. Our goal was to create a Minimum Viable Product (MVP) that delivers significant value to 3D printing businesses, streamlining their operations and enhancing their online presence.
 

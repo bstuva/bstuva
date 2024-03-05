@@ -40,6 +40,8 @@
 
 <h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Projects</h1>
 
+- [Projects](projects.md)
+
 <h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Completed Course and Aquired Skills</h1>
 
 - [Completed Courses](PastCourses.md)

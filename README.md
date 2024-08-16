@@ -27,11 +27,6 @@ I am a passionate **Software Engineer** with a strong foundation in software dev
 ## 🚀 Projects
 - **[3D Printing SaaS Application](https://github.com/bstuva/project-link)**: Developed a responsive web application using React, Node.js, and Bootstrap. Improved system responsiveness by 40%.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bstuva&repo=project-link&theme=dark" alt="Project 1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bstuva&repo=another-project&theme=dark" alt="Project 2">
-</p>
-
 ## 🎓 Completed Courses and Acquired Skills
 - **Completed Courses**: [AZ-900](https://www.example.com), [Other Courses](https://www.example.com)
 - **Technical Skills**: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B) ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -54,11 +49,6 @@ I am a passionate **Software Engineer** with a strong foundation in software dev
 - 📚 Reading: I like to dive into books on technology, science fiction, and personal development.
 - 🧑‍💻 Coding: I'm constantly experimenting with new coding techniques and frameworks to stay ahead of the curve.
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=bstuva&theme=react-dark" alt="GitHub Activity Graph">
-</p>
-
----
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote">

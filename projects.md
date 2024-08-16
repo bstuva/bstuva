@@ -9,7 +9,7 @@
 
 ### Overview
 
-We partnered with Link Clicks Inc. to design, develop, and deploy a cutting-edge Software as a Service (SaaS) platform, specifically tailored for the 3D printing industry. This platform aims to offer comprehensive services such as website hosting, inventory management, quoting, order tracking, and payment processing. Our goal was to create a Minimum Viable Product (MVP) that delivers significant value to 3D printing businesses, streamlining their operations and enhancing their online presence.
+I partnered with Link Clicks Inc. to design, develop, and deploy a cutting-edge Software as a Service (SaaS) platform, specifically tailored for the 3D printing industry. This platform aims to offer comprehensive services such as website hosting, inventory management, quoting, order tracking, and payment processing. Our goal was to create a Minimum Viable Product (MVP) that delivers significant value to 3D printing businesses, streamlining their operations and enhancing their online presence.
 
 #### Technical Stack
 

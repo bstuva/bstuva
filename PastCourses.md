@@ -62,7 +62,7 @@
 - Simulation of algorithms and mechanisms in operating systems including processor schedulers, synchronization tools, memory allocation, and disk scheduling.
 - Analyzing operating system design problems, designing solutions, and articulating justification for these solutions.
 - Engaging with course material through a flipped classroom format, including video instruction, exercises, and programming assignments.
-- Adherence to ASU’s academic integrity policy in all academic assignments and programming exercises.
+- Adherence to ASUï¿½s academic integrity policy in all academic assignments and programming exercises.
 - Managing time effectively for watching lectures, completing exercises, and doing programming assignments.
 - Balancing collaboration with individual responsibility in programming assignments and exercises.
 - Flexibility and adaptability to changes in course policies and requirements.
@@ -81,7 +81,7 @@
 - Demonstrating an understanding of the differences between Unstructured, Semi-structured, Hierarchical, NOSQL, and Graph databases.
 - Developing, populating, and querying relational databases using SQL.
 - Demonstrating the ability to present project results effectively.
-- Utilizing textbooks like “Fundamentals of Database Management Systems" by Elmasri & Navathe for in-depth knowledge.
+- Utilizing textbooks like ï¿½Fundamentals of Database Management Systems" by Elmasri & Navathe for in-depth knowledge.
 - Commitment to ASU's Academic Integrity Policy in all academic assignments.
 - Managing time effectively to meet deadlines for assignments and projects.
 - Balancing collaboration and individual responsibility in programming assignments.
@@ -107,12 +107,6 @@
 - Ability to manage time effectively and meet strict deadlines for assignments and projects.
 - Balancing collaboration in study groups with the need for individual integrity and work ethic in assignments.
 
-<h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Design & Analyze: Data Structures & Algorithms</h1>
-
-### Aquired Skills
-
--
-
 <h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Software Enterprise (Personal Process & Software
 Quality)</h1>
 
@@ -130,7 +124,7 @@ Quality)</h1>
  - Capability to design a comprehensive software test plan in IEEE format.
  - Choice and application of approaches for functional and non-functional testing, validation, and quality assurance.
  - Skills in applying technical information and knowledge in professional writing, especially for producing technical documents.
- - Adherence to ASU’s academic integrity policy and ethical standards in software development and testing.
+ - Adherence to ASUï¿½s academic integrity policy and ethical standards in software development and testing.
  - Utilization of key textbooks and reference materials to deepen understanding of software engineering concepts.
  - Experience in managing individual and team-based project deliverables within set timelines.
  - Adaptability to course policies and effective communication for accommodations and exceptions.

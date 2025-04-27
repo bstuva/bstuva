@@ -36,21 +36,13 @@ Explore my full range of projects organized by language and focus:
   A centralized repository linking to individual projects, showcasing my expertise in Java, Python, and beyond. Each entry demonstrates my ability to design, implement, and document software solutions effectively.
 
 
-<h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Completed Course and Aquired Skills</h1>
+<h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Aquired Skills</h1>
 
-- [Completed Courses](PastCourses.md)
-
-## 🔧 Currently Honing
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python">
-  <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql">
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
-  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react">
-</p>
-
-## 🎓 Completed Courses and Acquired Skills
-- **Completed Courses**: [AZ-900](https://www.example.com), [Other Courses](https://www.example.com)
-- **Technical Skills**: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B) ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) 
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B) 
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5) 
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 ## 🌐 Where to Find Me
 <p align="center">
@@ -64,11 +56,6 @@ Explore my full range of projects organized by language and focus:
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
 </p>
-
-## 🎮 My Hobbies
-- 🎮 Gaming: I enjoy playing strategic video games that challenge my problem-solving skills.
-- 📚 Reading: I like to dive into books on technology, science fiction, and personal development.
-- 🧑‍💻 Coding: I'm constantly experimenting with new coding techniques and frameworks to stay ahead of the curve.
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote">

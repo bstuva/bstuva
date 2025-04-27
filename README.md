@@ -21,14 +21,8 @@ As a recent software engineering graduate, I’m actively pursuing opportunities
 
 
 ### Currently Exploring
-- **Networking Lower Layers**: Studying the fundamentals of network protocols, data transmission, and physical layer concepts to build a solid foundation in network engineering.
-
-### Upcoming Topics
-- **Networking Upper Layers**: Planning to dive into application-layer protocols and their role in network communication.
-- **Sockets**: Preparing to explore socket programming for real-time network applications.
-- **Threads and Serialization**: Aiming to master multi-threading and data serialization for efficient system design.
-- **Distributed Algorithms**: Looking forward to understanding algorithms that power distributed computing environments.
-- **Distributed Systems**: Set to study the architecture and challenges of scalable, distributed software systems.
+- **CRUD**
+- **SPRING BOOT**
 
 <h1 style="border-bottom: 5px solid #ccc; padding-bottom: 2px;">Projects</h1>
 
